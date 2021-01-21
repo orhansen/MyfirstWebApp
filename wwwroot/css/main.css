@@ -1,14 +1,26 @@
 ﻿body {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    text-align:center
 }
-
+h1 {
+    font-family: 'Trebuchet MS';
+    font-size: 60px;
+    border: 5px;
+    background-color:aqua;
+}
+h2 {
+    font-family: 'Trebuchet MS';
+    font-size: 40px;
+}
+p {
+    font-family: 'Times New Roman';
+}
 label {
     font-size: 20px;
     color: #b21bc3;
-    width: 100px;
-    display: inline-block
+    width: 125px;
+    display: inline-block;
 }
-
 ul.quiz li {
     list-style-type: none;
 }
+
